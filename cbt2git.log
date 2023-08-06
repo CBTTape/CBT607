@@ -1,0 +1,12 @@
+2023-08-06 05:31:48.100160 - Initialized conversion of CBT607
+2023-08-06 05:31:48.173246 - Received CBT.V505.FILE607.PDS from FILE607.XMI 
+2023-08-06 05:31:48.176025 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE607.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:31:48.177284 - Found $$CHANGE.txt (text/plain) in CBT.V505.FILE607.PDS, moved to PDS/$$CHANGE
+2023-08-06 05:31:48.178328 - Found $$README.txt (text/plain) in CBT.V505.FILE607.PDS, moved to PDS/$$README
+2023-08-06 05:31:48.179315 - Found @FILE607.txt (text/plain) in CBT.V505.FILE607.PDS, moved to PDS/@FILE607
+2023-08-06 05:31:48.180249 - Found CDPG037.jcl (text/plain) in CBT.V505.FILE607.PDS, moved to PDS/CDPG037
+2023-08-06 05:31:48.181124 - Found CDPG1047.jcl (text/plain) in CBT.V505.FILE607.PDS, moved to PDS/CDPG1047
+2023-08-06 05:31:48.182079 - Found CODEPAGE.txt (text/plain) in CBT.V505.FILE607.PDS, moved to PDS/CODEPAGE
+2023-08-06 05:31:48.210448 - Found IND$FILE.xmi (application/xmit) in CBT.V505.FILE607.PDS
+2023-08-06 05:31:48.220019   - Received RECFM=U data, stored XMIT file as CBT607/IND$FILE.xmi
+2023-08-06 05:31:48.221004 - Found JCL.jcl (text/plain) in CBT.V505.FILE607.PDS, moved to PDS/JCL
